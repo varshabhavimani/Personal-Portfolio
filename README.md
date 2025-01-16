@@ -31,7 +31,7 @@ Welcome to my Personal Portfolio Website! This project serves as a showcase of m
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/varshabhavimani/Personal-Portfolio/.git
    ```
 2. Open the `index.html` file in your preferred browser to view the website.
 3. Customize the content and design by modifying the HTML, CSS, and JavaScript files as needed.
